@@ -15,7 +15,7 @@ Este repositorio contiene un flujo de trabajo (`workflow`) para un chatbot desar
 - Realiza análisis de sentimientos
 - Consulta una base vectorial (Qdrant) con embeddings
 - Personaliza respuestas para los usuarios
-- Permite interacción del usuario desde una interfaz web que lo enruta a un chat en Telgram
+- Permite interacción del usuario desde una interfaz web que lo enruta a un chat en Telegram
 
 🏁 Cómo usarlo
 
